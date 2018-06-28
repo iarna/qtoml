@@ -2,6 +2,8 @@
 
 Use TOML to construct object literals directly in JavaScript
 
+[![Coverage Status](https://coveralls.io/repos/github/iarna/qtoml/badge.svg)](https://coveralls.io/github/iarna/qtoml)
+
 ```js
 const toml = require('qtoml')
 
