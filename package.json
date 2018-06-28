@@ -24,12 +24,20 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/iarna/qtoml.git"
+    "url": "git+https://github.com/iarna/qtoml.git"
   },
-  "bugs": "https://github.com/iarna/qtoml/issues",
+  "bugs": {
+    "url": "https://github.com/iarna/qtoml/issues"
+  },
   "homepage": "https://npmjs.com/package/qtoml",
   "main": "qtoml.js",
   "dependencies": {
     "@iarna/toml": "^1.6.0"
-  }
+  },
+  "description": "Use TOML to construct object literals directly in JavaScript",
+  "version": "1.0.0",
+  "directories": {
+    "test": "test"
+  },
+  "keywords": ["toml", "template-string" ]
 }
