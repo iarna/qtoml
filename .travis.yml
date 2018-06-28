@@ -5,7 +5,7 @@ matrix:
     - node_js: "10"
       install:
         - "mv node_modules/.cache . || true"
-        - "npm ci"
+        - "npm i"
         - "mv .cache node_modules/ || true"
       script:
         - "npm t"
