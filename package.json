@@ -39,5 +39,8 @@
   "directories": {
     "test": "test"
   },
-  "keywords": ["toml", "template-string" ]
+  "keywords": ["toml", "template-string" ],
+  "files": [
+    "qtoml.js"
+  ]
 }
