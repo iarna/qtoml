@@ -35,7 +35,7 @@
     "@iarna/toml": "^2.2.1"
   },
   "description": "Use TOML to construct object literals directly in JavaScript",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "directories": {
     "test": "test"
   },
