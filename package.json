@@ -32,7 +32,7 @@
   "homepage": "https://npmjs.com/package/qtoml",
   "main": "qtoml.js",
   "dependencies": {
-    "@iarna/toml": "^1.6.0"
+    "@iarna/toml": "^2.2.1"
   },
   "description": "Use TOML to construct object literals directly in JavaScript",
   "version": "1.0.0",
